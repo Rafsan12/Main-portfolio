@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
     .half-with{
         width: 50%;
@@ -30,3 +31,7 @@ section{
         background-image: url(images/Frosted\ Orange\ Music\ Brand\ Guidelines\ Presentation.png);
         background-repeat: no-repeat;
     }
+ .dream-big{
+     background-image:url(images/dream.png);
+     background-repeat: no-repeat;
+ }
