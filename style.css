@@ -8,7 +8,7 @@ h1{
 .color{
     color: darkmagenta;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -35,3 +35,21 @@ section{
      background-image:url(images/dream.png);
      background-repeat: no-repeat;
  }
+ .Experience-area{
+
+ }
+ .experience-item{
+     width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+  box-shadow: 10px 10px 50px grey;  
+  border-left: 10px solid; 
+}
+#web-dev-Experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+
+}
